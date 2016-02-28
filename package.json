@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "description": "Gobbles nodes",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha --ui tdd"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/julienw/gobble-devnull.git"
