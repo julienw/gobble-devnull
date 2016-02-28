@@ -1,0 +1,24 @@
+{
+  "name": "gobble-devnull",
+  "version": "0.1.0",
+  "description": "Gobbles nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --ui tdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julienw/gobble-devnull.git"
+  },
+  "keywords": [
+    "gobble",
+    "gobble-plugin",
+    "ignore"
+  ],
+  "author": "Julien Wajsberg <felash@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julienw/gobble-devnull/issues"
+  },
+  "homepage": "https://github.com/julienw/gobble-devnull#readme"
+}
